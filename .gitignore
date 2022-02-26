@@ -10,3 +10,4 @@ site
 # ignore data from inside working folder
 OMS Guillermo/*.json
 OMS Guillermo/*.csv
+.ipynb_checkpoints
