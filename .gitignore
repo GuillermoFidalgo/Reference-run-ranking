@@ -1,5 +1,5 @@
 # ignore OMS API client ID and secret
-omsapi/clientid.py
+clientid.py
 
 # ignore all .pyc files
 **.pyc
