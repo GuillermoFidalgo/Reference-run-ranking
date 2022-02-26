@@ -8,5 +8,5 @@ omsapi/clientid.py
 site
 
 # ignore data from inside working folder
-"OMS Guillermo/*.json"
-"OMS Guillermo/*.csv"
+OMS Guillermo/*.json
+OMS Guillermo/*.csv
